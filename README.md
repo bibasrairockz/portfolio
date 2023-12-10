@@ -1,24 +1,20 @@
 # AI Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, PyTorch, Asure, AWS, MATLAB, Java
 
-## Education
-- Master, Baclors
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education					       		
+- M.S., Artificial Intelligence	| University of Surrey (_Expected January 2024_)	 			        		
+- B.Tech., Mechnical Engineering | Lovely Professional University (_August 2019_)
 
 ## Work Experience
-**AI Inter @ Airnode, Quality Specialist @ Amazon**
-- project 1
-- peoject 2
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**AI Inter @ Airnode (_May – June 2023_)**
+- Designed an air quality forecasting model, incorporating data scraping and diverse machine learning techniques such as Random Forest, Linear Regression, and XGBoost, achieving an impressive 96% prediction accuracy.
+- Implemented streamlined project deployment with Docker containerization, successfully managing over 500 users on AWS, ensuring heightened accessibility and scalability for the continuous product growth and improvement.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Quality Specialist @ Amazon (_August 2019 – September 2022_)**
+- Enhanced data analysis with Python and SQL, reducing processing time by 40% for delay problem.
+-	Developed an efficient data annotation automation system, resulting in a remarkable 30% reduction in annotation time for a team of over 75 annotators and 3 leadership positions, leading to substantial productivity gains.
+-	Collaborated with stakeholders to gather feedback and ensure transparent, data-driven progress reporting.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
