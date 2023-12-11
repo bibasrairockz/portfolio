@@ -1,6 +1,6 @@
 # AI Engineer
 
-#### Technical Skills: Python, PyTorch, Asure, AWS, MATLAB, Java
+#### Technical Skills: Python, PyTorch, Azure, AWS, MATLAB, Java
 
 ## Education					       		
 - M.S., Artificial Intelligence	| University of Surrey (_Expected January 2024_)	 			        		
