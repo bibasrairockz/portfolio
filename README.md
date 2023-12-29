@@ -19,7 +19,7 @@
 ## Projects
 ###  Video Search System
 
-**Object Detection with YOLO (You Only Look Once):**
+**Object Detection with YOLO (You Only Look Once)**
 
 Real-Time Object Detection: YOLO is renowned for its ability to perform real-time object detection.
 It divides the input video frames into a grid and predicts bounding boxes and class probabilities for objects in each grid cell.
@@ -27,7 +27,7 @@ It divides the input video frames into a grid and predicts bounding boxes and cl
 Localization and Classification: YOLO provides precise localization of objects within the frames, indicating where each object is located.
 It simultaneously classifies the objects, assigning them to specific categories.
 
-**Scene Captioning with Vision Transformer (ViT-GPT2):**
+**Scene Captioning with Vision Transformer (ViT-GPT2)**
 
 Vision Transformer for Image Understanding: Vision Transformers are powerful models initially designed for image classification tasks.
 ViT-GPT2, in this context, combines vision and language understanding, allowing it to generate descriptive captions for scenes in the video.
@@ -35,7 +35,7 @@ ViT-GPT2, in this context, combines vision and language understanding, allowing 
 Rich Descriptions: ViT-GPT2 excels at creating detailed and contextually relevant captions for the content within video frames.
 These captions provide a textual representation of the scenes captured in the video.
 
-**Enhancement with NLP (Natural Language Processing):**
+**Enhancement with NLP (Natural Language Processing)**
 
 Integration of Natural Language Queries: The novel approach incorporates NLP to enable users to interact with the video through natural language queries.
 Users can input queries related to the video content, expressing their questions or interests in a way that feels more conversational.
@@ -43,7 +43,7 @@ Users can input queries related to the video content, expressing their questions
 Advanced Query Matching: The system utilizes NLP techniques to match user queries with the identified objects and scene captions.
 This enables users to interact with the video dynamically, seeking specific information or insights.
 
-**Conclusion:**
+**Conclusion**
 The fusion of YOLO, ViT-GPT2, and NLP creates a synergistic approach to video analysis, offering real-time object detection, descriptive scene captions, and interactive query capabilities. This comprehensive solution contributes to a more enriched and user-centric video analysis experience.
 
 ### End to End Pipeline
